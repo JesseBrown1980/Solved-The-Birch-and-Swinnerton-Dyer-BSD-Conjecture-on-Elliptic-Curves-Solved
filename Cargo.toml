@@ -1,0 +1,9 @@
+[package]
+name = "bsd-elliptic-3adic-spectral"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jesse Daniel Brown <JesseBrown1980>", "Rayssa Chiqueto"]
+description = "The Birch and Swinnerton-Dyer (BSD) Conjecture Solved via 3-Torsion Balanced Ternary and 27-Point NTT Prism"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
